@@ -1,0 +1,19 @@
+@import "layout.css";
+@import "stats.css";
+@import "search-box.css";
+@import "sort-by.css";
+@import "link-button.css";
+@import "refinement-select.css";
+@import "clear-refinements.css";
+@import "date-range.css";
+@import "slider-range.css";
+@import "infinite-hits.css";
+@import "hits.css";
+@import "hit.css";
+@import "popup.css";
+@import "state-toggle.css";
+
+#vf-algolia-filter {
+  margin: 0;
+  padding: 0;
+}
