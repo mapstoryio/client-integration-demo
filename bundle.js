@@ -2,8 +2,8 @@
 
 if (!window.messageHandlerAttached) {
   //  const EXPO_URL = "https://fjordlandet.mapstory.io";
-  const EXPO_URL = "http://lhaemkm.maplegend.8082.exp.direct";
-  //const EXPO_URL = "https://expo.demo.mapstory.io";
+//  const EXPO_URL = "http://lhaemkm.maplegend.8082.exp.direct";
+  const EXPO_URL = "https://expo.demo.mapstory.io";
   let divs = document.querySelectorAll("[data-mapstory-target-overlay-blur]");
 
   for (let d of divs) {
